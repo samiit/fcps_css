@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fcps_css"
+  site-url: "https://samiit.github.io/fcps_css"
+  description: "Demo repo for FCPS Component Sizing and Selection"
+  repo-branch: main
+  repo-url: "https://github.com/samiit/fcps_css"
